@@ -6,6 +6,8 @@ The data were downloaded from the Living Planet Index database http://www.living
 
 #### If you have any questions, please contact us at ourcodingclub@gmail.com
 
+Check out https://ourcodingclub.github.io/workshop/ to learn how you can get involved!
+
 We would love to hear your feedback on the tutorial, whether you did it in the classroom or online: 
 https://www.surveymonkey.co.uk/r/NRKM679
 
